@@ -1,11 +1,12 @@
 # VGG in Tensorflow
 
-Model and pre-trained parameters for VGG16 in TensorFlow
-[Source](https://www.cs.toronto.edu/~frossard/post/vgg16/)
+Model and pre-trained parameters for VGG16 in TensorFlow.
+
+[All the sources come from here](https://www.cs.toronto.edu/~frossard/post/vgg16/)
 
 ## Files
 
-  * Model weights - [vgg16_weights.npz](vgg16_weights.npz)
+  * Model weights - [vgg16_weights.npz](https://www.cs.toronto.edu/~frossard/vgg16/vgg16_weights.npz)
   * TensorFlow model - [vgg16.py](vgg16.py)
   * Class names - [imagenet_classes.py](imagenet_classes.py)
   * Example input - [laska.png](misc/laska.png)
